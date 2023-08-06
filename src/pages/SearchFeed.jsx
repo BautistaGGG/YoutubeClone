@@ -1,6 +1,10 @@
+import { Typography } from "@mui/material"
+
 function SearchFeed() {
   return (
-    <div>SearchFeed</div>
+    <Typography sx={{color:"white"}}> 
+      SearchFeed
+    </Typography>
   )
 }
 
