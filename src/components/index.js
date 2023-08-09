@@ -5,3 +5,4 @@ export {default as ChannelDetail} from "../pages/ChannelDetail"
 export {default as VideoDetail} from "../pages/VideoDetail"
 
 export {default as Sidebar} from "./Sidebar"
+export {default as Videos} from "./Videos"
